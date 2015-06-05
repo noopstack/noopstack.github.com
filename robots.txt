@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://noopstack.github.io/sitemap.xml 
